@@ -1294,6 +1294,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StoreFast](https://storefast.app/docs/mcp) `https://storefast.app/mcp`
   [![StoreFast MCP connector](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast)
   🔐 - Publish MSIX updates to the Microsoft Store, translate release notes, edit listings, and read downloads and reviews.
+- [Stresix](https://stresix.com/mcp/) `https://stresix.com/mcp`
+  [![Stresix MCP connector](https://glama.ai/mcp/connectors/com.stresix/stresix/badges/score.svg)](https://glama.ai/mcp/connectors/com.stresix/stresix)
+  🔓 - Load test a repo or Docker image on a real server and get p95, errors and what ran out first; tool calls need a key.
 - [Supero](https://supero.dev) `https://api.supero.dev/mcp/v1/messages`
   [![Supero MCP connector](https://glama.ai/mcp/connectors/io.github.supero-platform/supero/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.supero-platform/supero)
  🔓 - Define schemas, CRUD, RBAC and one-call deploys for multi-tenant apps from an AI editor; tool calls need a key.
